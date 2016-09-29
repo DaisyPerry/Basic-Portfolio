@@ -1,0 +1,67 @@
+
+h1 { 
+	background-color: darkcyan;
+	font-size: 26px;
+	font-weight: lighter;
+	color: white;
+	margin-right: 60%;
+	margin-left: 10%;
+	padding-right: 30px;
+	padding-left: 30px;
+	padding-top: 20px;
+	height: 50px;
+	width: 150px;
+
+  }
+
+body {
+	background-color: white;
+	color: white; 
+}
+
+
+div {
+	background-color: lightgrey;
+	height:100%;
+	width:100%;
+	float:left;
+
+}
+
+	.textblock
+		h2{
+			background-color: white;
+			padding-left: 35px;
+			padding-top: 35px;
+			color: darkcyan;
+			float: left;
+			height: 450px;
+			width: 600px;
+			margin-left: 10%;
+			font-size: 26px;
+			text-align: left;
+		}
+			p{
+
+				font-size: 17px;
+				color: black;
+				font-weight: lighter;
+
+			}
+
+	nav{
+		text-align: right;
+		margin-right: 30px;
+	}
+
+
+footer 
+div{
+	background-color: darkgrey;
+	height: 70px;
+	width: 100%;
+	border-style: solid;
+	border-color: darkcyan;
+	border-width: 8px 0px 0px 0px;
+	
+}
